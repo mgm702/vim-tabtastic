@@ -1,0 +1,60 @@
+*tabtastic.txt* Helps make multiple tabs in Vim quick and easy
+ _____      _     _            _   _      
+/__   \__ _| |__ | |_ __ _ ___| |_(_) ___ 
+  / /\/ _` | '_ \| __/ _` / __| __| |/ __|
+ / / | (_| | |_) | || (_| \__ \ |_| | (__ 
+ \/   \__,_|_.__/ \__\__,_|___/\__|_|\___|
+
+====================================================
+CONTENTS                     *TabtasticContents*
+
+        1. Usage ..........  |Tabtastic|
+        2. Mappings .......  |TabtasticMapping|
+        3. Contributing....  |TabtasticContributing|
+        4. Changelog ......  |TabtasticChangelog|
+        5. License ........  |TabtasticLicense|
+
+=====================================================
+USAGE                        *Tabtastic*
+
+This plugin was built as a tool to help create multiple 
+tabs in Vim. Often times it can be annoying to create 
+many tabs in Vim and this plugin is here to help with 
+that. This plugin is easy to use and effectively 
+eliminates the work done by the user. 
+
+MAPPING                      *TabtasticMapping*
+
+                The following command will run the 
+                Tabtastic plugin. This command will 
+:Tabtastic      start a prompt that will quickly create 
+                multiple tabs, which you can either 
+                load or keep empty. 
+
+
+This command can also be remapped to use a leader key. The
+following example remaps the :Tabtastic command to <leader>
+t, which runs the plugin.
+        
+  :nmap <leader>t :Tabtastic<CR>
+
+CONTRIBUTING                  *TabtasticContributing*
+
+If you would like to contribute to this plugin, submit a 
+Pull Request with an excellent commit message. Contributions
+are more then welcome, please however make sure that your 
+commit message is clear and understandable. 
+
+CHANGELOG                      *TabtasticChangelog*
+
+Here is where the Changelog for Tabtastic will be held. 
+
+  + Version 1.0 ... Initial Plugin commit and scripting
+
+LICENSE                         *TabtasticLicence*
+
+The Tabtastic plugin is licensed under the same license as
+the Vim text editor itself. Please view at |license| for 
+more details
+
+
