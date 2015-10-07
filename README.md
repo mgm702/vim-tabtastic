@@ -19,7 +19,7 @@ cd ~/.vim/bundle
 git clone https://github.com/mgm702/vim-tabtastic.git
 ```
 
-If you need help with the plugin you may use ```help tabtastic``` to bring up the Plugin's documentation.
+If you need help with the plugin you may use ```help tabtastic.txt``` to bring up the Plugin's documentation.
 
 ## Mapping
 
