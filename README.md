@@ -39,7 +39,7 @@ command to <leader>t, which runs the plugin.
 ## Contributing
 
 If you would like to contribute to this plugin, submit a Pull Request with an excellent commit message. 
-Contributions are more then welcome, please however make sure that your commit message is clear and understandable. 
+Contributions are more then welcome, however please make sure that your commit message is clear and understandable. 
 
 ## License
 
@@ -48,4 +48,4 @@ for more details.
 
 ## Like The Plugin?
 
-If you like Tabtastic.vim follow the repository on [Github] and if you are feeling extra nice, follow the author [mgm702](http://mgm702) on [Twitter](https://twitter.com/mgm702) or [Github](https://github.com/mgm702).
+If you like Tabtastic.vim follow the repository on [Github](https://github.com/mgm702/vim-tabtastic) and if you are feeling extra nice, follow the author [mgm702](http://mgm702) on [Twitter](https://twitter.com/mgm702) or [Github](https://github.com/mgm702).
