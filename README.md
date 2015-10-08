@@ -1,5 +1,8 @@
 
 # Tabtastic.vim
+
+[logo]: http://g.recordit.co/sMRr4eOLeP.gif "Tabtastic Demo"
+
 ---
 
 This plugin was built as a tool to help create multiple tabs in Vim. Often times it can be annoying to create 
