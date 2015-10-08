@@ -1,7 +1,7 @@
 
 # Tabtastic.vim
-[logo]
-[logo]: http://g.recordit.co/sMRr4eOLeP.gif "Tabtastic Demo"
+
+![logo]: http://g.recordit.co/sMRr4eOLeP.gif "Tabtastic Demo"
 
 ---
 
