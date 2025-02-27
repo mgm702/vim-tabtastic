@@ -11,11 +11,22 @@ eliminates the work done by the user.
 
 ## Installation
 
-You can either install Vundle and then place the following line in your .vimrc file.
 
-+ ``` Plugin 'mgm702/vim-tabtastic' ```
++ vim-plug: you can install vim-plug and then place the following line in your .vimrc.
 
-Or you can use Pathogen and then simply follow the commands below to install the plugin.
+```
+call plug#begin()
+
+Plug 'mgm702/vim-tabtastic'
+
+call plug#end()
+```
+
++ Vundle: You can install Vundle and then place the following line in your .vimrc file.
+
+``` Plugin 'mgm702/vim-tabtastic' ```
+
++ Pathegon: Or you can use Pathogen and then simply follow the commands below to install the plugin.
 
 ``` 
 cd ~/.vim/bundle
